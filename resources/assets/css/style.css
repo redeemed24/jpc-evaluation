@@ -1,0 +1,37 @@
+.top5 { margin-top:5px; }
+.top7 { margin-top:7px; }
+.top10 { margin-top:10px; }
+.top15 { margin-top:15px; }
+.top17 { margin-top:17px; }
+.top30 { margin-top:30px; }
+
+.dataTables_filter, .dataTables_paginate, .paging_simple_numbers{
+	float: right !important;
+}
+
+table tr th,td{
+	font-size: 12px !important;
+}
+
+#page-wrapper{
+	min-height: 760px !important;
+}
+
+
+.login-container{
+	border-radius:0px !important;
+	background-color:#fff !important;
+	box-shadow: 7px 7px 3px #ccc;
+	border-top: 5px solid #337ab7;
+}
+
+
+.login-container input{
+	border:0px;
+	border-bottom: 1px solid #000;
+	width: 100%;
+	text-align: center;
+	font-size: 16px;
+
+}
+
